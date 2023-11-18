@@ -1,0 +1,20 @@
+[
+    { "_id": "A101", "title": "Propulsion Assignment", "course": "RS101", "type": "assignment" },
+    { "_id": "A102", "title": "Combustion Analysis", "course": "RS101", "type": "assignment" },
+    { "_id": "A103", "title": "Nozzle Design Project", "course": "RS101", "type": "project" },
+    { "_id": "A104", "title": "Propulsion Quiz", "course": "RS101", "type": "quiz" },
+    { "_id": "A105", "title": "RS101 Exam", "course": "RS101", "type": "exam" },
+    { "_id": "A106", "title": "Combustion Quiz", "course": "RS101", "type": "quiz" },
+    { "_id": "A201", "title": "Aerodynamics Quiz", "course": "RS102", "type": "quiz" },
+    { "_id": "A202", "title": "Flow Analysis", "course": "RS102", "type": "assignment" },
+    { "_id": "A203", "title": "Heating Analysis", "course": "RS102", "type": "assignment" },
+    { "_id": "A204", "title": "Heating Quiz", "course": "RS102", "type": "quiz" },
+    { "_id": "A205", "title": "RS102 Exam", "course": "RS102", "type": "exam" },
+    { "_id": "A206", "title": "RS102 Project", "course": "RS102", "type": "project" },
+    { "_id": "A301", "title": "Structural Design Task", "course": "RS103", "type": "assignment" },
+    { "_id": "A302", "title": "Orbital Calculations", "course": "RS103", "type": "assignment" },
+    { "_id": "A303", "title": "Systems Engineering Exam", "course": "RS103", "type": "exam" },
+    { "_id": "A304", "title": "Orbital Quiz", "course": "RS103", "type": "quiz" },
+    { "_id": "A305", "title": "System Engineering Quiz", "course": "RS103", "type": "quiz" },
+    { "_id": "A306", "title": "RS103 Project", "course": "RS103", "type": "project" }
+]
