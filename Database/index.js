@@ -5,7 +5,7 @@ const users = require('./users.json');
 const grades = require('./grades.json');
 const enrollments = require('./enrollments.json');
 
-module.exports = {
+export default {
     courses,
     modules,
     assignments,
