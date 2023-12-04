@@ -13,7 +13,7 @@ mongoose.connect("mongodb://127.0.0.1:27017/kanbas");
 const app = express();
 app.use(cors({
   credentials: true,
-  origin: process.env.FRONTEND_URL
+  origin: 'https://656d187de4138000086306fb--gleeful-puppy-3bd25f.netlify.app/'
 }));
 const sessionOptions = {
   secret: "any string",
