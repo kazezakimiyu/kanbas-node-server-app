@@ -30,7 +30,7 @@ db.once('open', () => {
 const app = express();
 app.use(cors({
   credentials: true,
-  origin: 'https://a6--gleeful-puppy-3bd25f.netlify.app'
+  origin: 'https://656dfb559aa9b711a88f6ed9--tangerine-lolly-7cd2fd.netlify.app/'
 }));
 const sessionOptions = {
   secret: "any string",
